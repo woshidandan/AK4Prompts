@@ -1,6 +1,25 @@
 # AK4Prompts
+IJCAI2024: First work to propose a solution to select optimal prompts by IAA. 首篇利用IAA来筛选生成模型最佳提示词的工作.
 
-This repository is the implementation of "AK4Prompts: Automated Keywords-Ranking for Prompts in Text-To-Image Models"
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+
+This repo contains the official implementation of AK4Prompts of the **IJCAI 2024** paper.
+
+<div align="center">
+<h1>
+<b>
+AK4Prompts: Automated Keywords-Ranking for Prompts in Text-To-Image Models
+</b>
+</h1>
+<h4>
+<b>
+Haiyang Zhang* , Mengchao Wang* , Shuai He* , Anlong Ming∗
+  
+Beijing University of Posts and Telecommunications, *Equal contribution
+</b>
+</h4>
+</div>
 
 ### Installation
 
