@@ -14,7 +14,7 @@ AK4Prompts: Automated Keywords-Ranking for Prompts in Text-To-Image Models
 </h1>
 <h4>
 <b>
-Haiyang Zhang* , Mengchao Wang* , Shuai He* , Anlong Ming∗
+Haiyang Zhang* , Mengchao Wang* , Shuai He* , Anlong Ming
   
 Beijing University of Posts and Telecommunications, *Equal contribution
 </b>
